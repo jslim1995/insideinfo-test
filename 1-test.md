@@ -41,3 +41,7 @@ Success! Uploaded policy: kv_jenkins_policy
 jenkins 관리 - System Configuration - Plugins
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f90702de-2a7d-47cd-9529-ae9583e2d8f1/40c5b9fe-dd81-45d0-bdec-e5e194d17361/Untitled.png)
+
+
+
+![Untitled](https://github.com/jslim1995/insideinfo-test/assets/100335118/5839bd6d-d8ab-4018-80c1-d91d24ade73f)
