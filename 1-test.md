@@ -45,3 +45,6 @@ jenkins 관리 - System Configuration - Plugins
 
 
 ![Untitled](https://github.com/jslim1995/insideinfo-test/assets/100335118/5839bd6d-d8ab-4018-80c1-d91d24ade73f)
+
+![Untitled 1](https://github.com/jslim1995/insideinfo-test/assets/100335118/3f953bf6-8b61-49fe-8384-482c3b9f377a)
+
